@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pipe-app/static/css/main.22f8e87c.css",
+    "main.js": "/pipe-app/static/js/main.0a898295.js",
+    "index.html": "/pipe-app/index.html",
+    "main.22f8e87c.css.map": "/pipe-app/static/css/main.22f8e87c.css.map",
+    "main.0a898295.js.map": "/pipe-app/static/js/main.0a898295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f8e87c.css",
+    "static/js/main.0a898295.js"
+  ]
+}
